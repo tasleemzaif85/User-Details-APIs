@@ -1,5 +1,4 @@
 # PerfStudio — ignore large run artifacts
-**/results/
 *_workspace/
 *.log
 *.tmp
